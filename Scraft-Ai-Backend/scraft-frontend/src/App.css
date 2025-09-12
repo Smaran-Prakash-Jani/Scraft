@@ -1,0 +1,103 @@
+.App {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  min-height: 100vh;
+  background-color: #f0f2f5;
+}
+
+.App-header {
+  padding: 20px;
+  background-color: #0066cc;
+  color: white;
+  text-align: center;
+}
+
+.App-header button {
+  margin: 0 10px;
+  padding: 10px 20px;
+  background-color: white;
+  color: #0066cc;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.App-header button:hover {
+  background-color: #f0f0f0;
+}
+
+main {
+  padding: 20px;
+}
+
+.product-grid {
+  display: grid;
+  gap: 20px;
+}
+
+.product-card {
+  border: 1px solid #ccc;
+  padding: 15px;
+  border-radius: 8px;
+  background-color: white;
+}
+
+.chat-widget {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  width: 300px;
+  background-color: white;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+  padding: 15px;
+}
+
+.chat-messages {
+  height: 200px;
+  overflow-y: auto;
+  margin-bottom: 10px;
+  border: 1px solid #ddd;
+  padding: 10px;
+  border-radius: 5px;
+}
+
+.message {
+  margin: 5px 0;
+  padding: 8px;
+  border-radius: 5px;
+}
+
+.user {
+  background-color: #0066cc;
+  color: white;
+  text-align: right;
+}
+
+.ai {
+  background-color: #f0f0f0;
+  color: black;
+  text-align: left;
+}
+
+input {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+button {
+  padding: 10px 20px;
+  background-color: #0066cc;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #0055aa;
+}
