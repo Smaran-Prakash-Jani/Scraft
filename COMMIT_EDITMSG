@@ -1,0 +1,27 @@
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch main
+# Changes to be committed:
+#	modified:   package-lock.json
+#	modified:   package.json
+#	modified:   postcss.config.js
+#	modified:   public/index.html
+#	modified:   src/App.css
+#	modified:   src/components/About.tsx
+#	modified:   src/components/AboutPage.tsx
+#	modified:   src/components/CategoryPage.tsx
+#	modified:   src/components/CeramicProductPage.tsx
+#	modified:   src/components/ContactPage.tsx
+#	modified:   src/components/FestivalSales.tsx
+#	modified:   src/components/Hero.tsx
+#	modified:   src/components/HomePage.tsx
+#	modified:   src/components/JewelryProductPage.tsx
+#	modified:   src/components/Layout.tsx
+#	modified:   src/components/ProfilePage.tsx
+#	modified:   src/components/SareeProductPage.tsx
+#	modified:   src/components/ScraftLogo.tsx
+#	modified:   src/components/ShopPage.tsx
+#	new file:   tailwind.config.js
+#
